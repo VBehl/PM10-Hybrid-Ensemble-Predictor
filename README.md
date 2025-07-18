@@ -69,11 +69,11 @@ pip install -r requirements.txt
 ---
 ## 🖼️ Visual Outputs
 
-- `xgboost_actual_vs_predicted.png`
-- `ann_scatter_plot.png`
-- `meta_model_residuals.png`
-- `feature_importance_rf.png`
-- `training_performance_metrics.txt`
+- [XGBoost Scatter Plot](./results/XgBoost%20Scatter%20Plot.jpg)
+- [ANN Scatter Plot](./results/ANN%20scatter%20plot.jpg)
+- [Meta Model Plot](./results/Meta%20Model%20Plot.jpg)
+- [Feature Correlation Matrix](./results/Feature%20Correlation%20Matrix.jpg)
+- [Model Comparison](./results/Model%20Comparison.jpg)
 
 ---
 
