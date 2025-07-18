@@ -78,7 +78,7 @@ pip install -r requirements.txt
 ---
 
 ## 📚 References
-- [Comparative_Analysis_of_Machine_Learning_Techniques_for_Predicting_Air_Quality_in_Smart_Cities](./(./Comparative_Analysis_of_Machine_Learning_Techniques.pdf))
+- [Comparative_Analysis_of_Machine_Learning_Techniques_for_Predicting_Air_Quality_in_Smart_Cities](./(./Comparative_Analysis_of_Machine_Learning_Techniques_for_Predicting_Air_Quality_in_Smart_Cities.pdf))
 - [Comparative Analysis Study for Air Quality Prediction in Smart Cities Using Regression Techniques](./project_report.pdf)
 - [A systematic study on PM2.5 and PM10 concentration prediction in air pollution using machine learning and deep learning model](https://www.sciencedirect.com/science/article/pii/S2590182625000967)
 
